@@ -1,0 +1,8 @@
+
+body {
+  padding-top: 50px;
+}
+body>.container {
+  margin:0;
+  background: #ec6cbb;
+}
