@@ -6,3 +6,8 @@ body>.container {
   margin:0;
   background: #ec6cbb;
 }
+header.slider{
+  padding: 0;
+}
+.carousel{
+}
